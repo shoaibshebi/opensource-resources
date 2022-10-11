@@ -4,6 +4,10 @@
   <img src="https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/open-source-fotolia.jpg" alt="Logo">
 </p>
 
+## 🛣 Private Blockchain roadmap
+
+Please find the attached pdf file "Private Blockchain road map-1.pdf", where we have listed detailed roadmap to private blockchain
+
 ## 🚧 Resources links
 
 1. LFX Mentorship Program - https://mentorship.lfx.linuxfoundation.org/#projects_all
